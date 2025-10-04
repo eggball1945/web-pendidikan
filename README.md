@@ -1,8 +1,8 @@
 # 🌈 EduLearn
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/username/repo-edu-learn?style=social)](https://github.com/username/repo-edu-learn/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/username/repo-edu-learn?style=social)](https://github.com/username/repo-edu-learn/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/eggball1945/web-pendidikan?style=social)](https://github.com/username/repo-edu-learn/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/eggball1945/web-pendidikan?style=social)](https://github.com/username/repo-edu-learn/network/members)
 
 EduLearn adalah platform pembelajaran interaktif berbasis web yang memungkinkan pengguna untuk menambahkan, menonton, dan belajar dari **video edukatif** secara mudah. Website ini dibangun menggunakan **HTML, CSS, Bootstrap, dan JavaScript**, memanfaatkan **localStorage** untuk menyimpan data video tanpa backend.
 
