@@ -22,7 +22,7 @@ EduLearn adalah platform pembelajaran interaktif berbasis web yang memungkinkan 
 
 ## 🔹 Demo
 
-✨ [Live Demo](https://username.github.io/repo-edu-learn/)  
+✨ [Live Demo](https://eggball1945.github.io/repo-web-pendidikan/)  
 
 ---
 
@@ -30,26 +30,25 @@ EduLearn adalah platform pembelajaran interaktif berbasis web yang memungkinkan 
 
 1. Clone repositori:
 
-```bash
+```bas
 git clone https://github.com/username/repo-edu-learn.git
-Masuk ke folder proyek:
+```
 
-bash
 Copy code
+```bas
 cd repo-edu-learn
+```
 Buka index.html di browser atau gunakan Live Server di VS Code.
 
 🔹 Struktur Folder
-csharp
-Copy code
 repo-edu-learn/
 │
 ├─ index.html           # Halaman landing
 ├─ add-materi.html      # Halaman tambah video
 ├─ materi.html          # Halaman daftar materi
 ├─ style.css            # CSS utama
-├─ README.md            # Dokumentasi
-└─ screenshots/         # Folder untuk screenshot/GIF
+└─ README.md            # Dokumentasi
+
 🔹 Cara Menambahkan Video
 Buka halaman add-materi.html.
 
@@ -58,6 +57,9 @@ Isi form:
 Judul Video
 
 Link YouTube (embed)
+1. Buka bagian bagikan
+2. Klik sematkan
+3. Cari dan salin link contoh : https://www.youtube.com/embed/dV_lf1kyV9M?si=-U6blkbhmNJLW5Lq
 
 Deskripsi
 
@@ -74,19 +76,6 @@ Form Tambah Video
 
 Daftar Video
 
-🔹 Teknologi Digunakan
-HTML5
-
-CSS3 & Animasi Gradient
-
-Bootstrap 5
-
-JavaScript (Vanilla)
-
-LocalStorage untuk penyimpanan data
-
-Pixabay API (opsional) untuk gambar materi
-
 🔹 Kontribusi
 Fork repositori ini
 
@@ -102,5 +91,3 @@ Buat Pull Request
 MIT License © 2025
 
 Dibuat dengan ❤️ oleh kaka ibal tercinta
-yaml
-Copy code
