@@ -36,7 +36,7 @@ git clone https://github.com/username/repo-edu-learn.git
 
 Copy code
 ```bas
-cd repo-edu-learn
+cd web-pendidikan
 ```
 Buka index.html di browser atau gunakan Live Server di VS Code.
 
