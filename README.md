@@ -49,9 +49,7 @@ repo-edu-learn/
 🔹 Cara Menambahkan Video
 Buka halaman add-materi.html.
 
-Isi form:
-
-Judul Video
+Isi Judul Video
 
 Link YouTube (embed)
 1. Buka bagian bagikan
