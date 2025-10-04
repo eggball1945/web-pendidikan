@@ -25,7 +25,7 @@ EduLearn adalah platform pembelajaran interaktif berbasis web yang memungkinkan 
 1. Clone repositori:
 
 ```bas
-git clone https://github.com/username/repo-edu-learn.git
+git clone https://github.com/eggball1945/web-pendidikan.git
 ```
 
 Copy code
