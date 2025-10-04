@@ -20,12 +20,6 @@ EduLearn adalah platform pembelajaran interaktif berbasis web yang memungkinkan 
 
 ---
 
-## 🔹 Demo
-
-✨ [Live Demo](https://eggball1945.github.io/repo-web-pendidikan/)  
-
----
-
 ## 🔹 Instalasi
 
 1. Clone repositori:
