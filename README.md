@@ -27,10 +27,13 @@ EduLearn adalah platform pembelajaran interaktif berbasis web yang memungkinkan 
 ```bas
 git clone https://github.com/eggball1945/web-pendidikan.git
 ```
-
-Copy code
+lalu ganti folder pada gitbash
 ```bas
 cd web-pendidikan
+```
+cek apakah file sudah masuk jika sudah masuk maka akan ada file dengan format html dan css
+```bas
+ls
 ```
 Buka index.html di browser atau gunakan Live Server di VS Code.
 
