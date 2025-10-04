@@ -1,0 +1,120 @@
+body {
+  background: linear-gradient(135deg, #f6d365, #fda085, #a1c4fd, #c2e9fb);
+  background-size: 300% 300%;
+  animation: gradientBG 15s ease infinite;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+@keyframes gradientBG {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.custom-navbar {
+  background: rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  transition: background 0.4s ease-in-out, padding 0.3s ease;
+  padding: 0.8rem 1rem;
+}
+
+.custom-navbar .navbar-brand {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: #fff;
+  transition: transform 0.2s, color 0.3s;
+}
+
+.custom-navbar .navbar-brand:hover {
+  transform: scale(1.1);
+  color: #f1f1f1;
+}
+
+.custom-navbar .nav-link {
+  color: #fff !important;
+  font-weight: 500;
+  position: relative;
+  margin-left: 15px;
+  transition: color 0.3s;
+}
+
+.custom-navbar .nav-link::after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 2px;
+  background: #fff;
+  transition: width .3s;
+  margin-top: 2px;
+}
+
+.custom-navbar .nav-link:hover::after {
+  width: 100%;
+}
+
+.scrolled {
+  background: rgba(0, 0, 0, 0.6) !important;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
+
+.card-custom {
+  border-radius: 20px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+  background: #fff;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-custom:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.25);
+}
+
+.form-control, .form-control:focus {
+  border-radius: 12px;
+  box-shadow: none;
+}
+
+.btn-primary {
+  background: #2575fc;
+  border: none;
+}
+
+.btn-primary:hover {
+  background: #1b5edc;
+}
+
+.btn-success {
+  background: #28a745;
+  border: none;
+}
+
+.btn-success:hover {
+  background: #218838;
+}
+
+.list-group-item {
+  border-radius: 12px;
+  margin-bottom: 10px;
+  border: 1px solid #e3e3e3;
+  transition: all 0.2s;
+  background: #f9f9f9;
+}
+
+.list-group-item:hover {
+  background-color: #f1f8ff;
+  transform: scale(1.01);
+}
+
+.btn-action {
+  margin-left: 5px;
+}
+
+h2, h4 {
+  color: #2575fc;
+  font-weight: 700;
+}
